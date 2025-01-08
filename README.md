@@ -5,7 +5,7 @@
         <meta name="author" content="SplendidFox5701">
         <meta name="description" content="This site is really shitty"> 
        
-        <title>I hate ni</title>
+        <title>I hate meta</title>
         <link rel="icon" href="icon.png"
         <link rel="stylesheet" href="styles.css">
     </head>
